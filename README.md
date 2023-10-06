@@ -46,10 +46,3 @@ Python 3.7.6; the following modules were heavily utilised: BeautifulSoup, re, pa
 ## Inspiration
 
 My academic studies have always had a focus on religion in antiquity (albeit often Roman). This project no doubt was influenced by my profound interest in the subject. 
-
-
-
-## Contact
-
-Created by [@katrinaalaimo](https://www.katrinaalaimo.com/) — feel free to contact me!
-
